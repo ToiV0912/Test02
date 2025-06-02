@@ -16,6 +16,9 @@ int main()
 {
     cout << "Hello world\n";
 
+    
+    bar();
     foo();
+
     return 0;
 }
