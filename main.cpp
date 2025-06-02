@@ -15,5 +15,7 @@ void bar()
 int main()
 {
     cout << "Hello world\n";
+    
+    bar();
     return 0;
 }
