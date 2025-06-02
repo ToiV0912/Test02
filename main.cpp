@@ -9,7 +9,7 @@ void foo()
 
 void bar()
 {
-
+    cout << "It's a bar\n";
 }
 
 int main()
