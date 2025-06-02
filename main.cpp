@@ -4,7 +4,7 @@ using namespace std;
 
 void foo()
 {
-
+    cout << "It's foo!\n";
 }
 
 void bar()
